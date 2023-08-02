@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Cipher...",
+    "userName": "cipherschools",
+    "image": "https://d3gmywgj71m21w.cloudfront.net/afbe5cca6cc698f5e677a961ce7ae47f"
+  },
+  {
+    "id": 2,
+    "name": "Anurag...",
+    "userName": "anurag",
+    "image": "https://d3gmywgj71m21w.cloudfront.net/e5f15e56c16bc817679b91a7323bf6de.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Geetika...",
+    "userName": "geetikasharma968",
+    "image": "https://lh3.googleusercontent.com/a/AAcHTtfzV8huTup0Pt5mOh_hPRZcXuLQn9jWJZbIFlhSuvRAZvay=s96-c"
+  },
+  {
+    "id": 4,
+    "name": "Preeti Katiyar",
+    "userName": "preetikatiyar5",
+    "image": "https://lh3.googleusercontent.com/a-/AOh14GgBsMQdeq56rYlPzOLxXPYb3BUSbbWsB2ryV1X8Aw=s96-c"
+  },
+  {
+    "id": 5,
+    "name": "Sanskar...",
+    "userName": "sanskardrolia",
+    "image": "https://d3gmywgj71m21w.cloudfront.net/5b58efae5c105533c059a1dac3b676c6"
+  },
+  {
+    "id": 6,
+    "name": "Sanskar...",
+    "userName": "sanskardrolia",
+    "image": "https://d3gmywgj71m21w.cloudfront.net/a78517da69af174c99161aa633a39234.jfif"
+  },
+  {
+    "id": 7,
+    "name": "Nitesh Kumar",
+    "userName": "i_m_nitesh9",
+    "image": "https://d3gmywgj71m21w.cloudfront.net/6246d136788ca0e1226cb06335fb77bd.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Neha Khichi",
+    "userName": "nehakhichi",
+    "image": "https://d3gmywgj71m21w.cloudfront.net/a78517da69af174c99161aa633a39234.jfif"
+  },
+  {
+    "id": 9,
+    "name": "Vishal Gujrati",
+    "userName": "vishal",
+    "image": "https://lh3.googleusercontent.com/a/AGNmyxa5GYPM5QZtVyJT4ycrH3zTSlGWg_sX5kKkl94=s96-c"
+  },
+  {
+    "id": 10,
+    "name": "Pushp Raj",
+    "userName": "pushp",
+    "image": "https://d3gmywgj71m21w.cloudfront.net/075512431dcb643baadfa2ab459c1b45.jpeg"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "DSA Community",
+    "members": 99,
+    "image": "https://d3gmywgj71m21w.cloudfront.net/3b2976ba93bbe9d96b4ed00a4966bd87"
+  },
+  {
+    "id": 2,
+    "name": "DSA Wizards",
+    "members": 10,
+    "image": "https://d3gmywgj71m21w.cloudfront.net/20a817718420d7ae995fdbdbe5518c42.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "MEME",
+    "members": 8,
+    "image": "https://d3gmywgj71m21w.cloudfront.net/4919dbf85b7c7c303ad4ecd991c72bd6.jpeg"
+  }
+]
